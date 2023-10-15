@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/kamilmir/mir-Lab2/static/css/main.073c9b0a.css",
+    "main.js": "/kamilmir/mir-Lab2/static/js/main.f43b2c3b.js",
+    "static/js/787.71cfefd0.chunk.js": "/kamilmir/mir-Lab2/static/js/787.71cfefd0.chunk.js",
+    "static/media/logo.svg": "/kamilmir/mir-Lab2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/kamilmir/mir-Lab2/index.html",
+    "main.073c9b0a.css.map": "/kamilmir/mir-Lab2/static/css/main.073c9b0a.css.map",
+    "main.f43b2c3b.js.map": "/kamilmir/mir-Lab2/static/js/main.f43b2c3b.js.map",
+    "787.71cfefd0.chunk.js.map": "/kamilmir/mir-Lab2/static/js/787.71cfefd0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f43b2c3b.js"
+  ]
+}
